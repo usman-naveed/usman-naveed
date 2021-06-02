@@ -3,7 +3,7 @@
 - 🌱 Always learning!
 - 📫 How to reach me: email! (m.u.naveed94@gmail.com)
 
-Look for people to contribute to your repo? Shoot me an email!
+Looking for people to contribute to your repo? Shoot me an email!
 
 <!---
 usman-naveed/usman-naveed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
