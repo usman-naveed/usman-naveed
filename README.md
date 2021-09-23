@@ -3,7 +3,6 @@
 - 🌱 Always learning!
 - 📫 How to reach me: email! (m.naveed@queensu.ca)
 
-Willing to contribute to Python projects, shoot me an email if you are looking for contributors!
 
 <!---
 usman-naveed/usman-naveed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
