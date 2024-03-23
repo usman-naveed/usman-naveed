@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @usman-naveed.
-- 👀 I’m interested in Machine Learning projects, and backend development with Python.
 - 🌱 Always learning!
 
 
