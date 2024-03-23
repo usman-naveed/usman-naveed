@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @usman-naveed. A software engineer working in the financial industry
+- 👋 Hi, I’m @usman-naveed.
 - 👀 I’m interested in Machine Learning projects, and backend development with Python.
 - 🌱 Always learning!
-- 📫 How to reach me: email! (m.naveed@queensu.ca)
 
 
 <!---
