@@ -1,4 +1,4 @@
-- 🌱 Always learning!
+🌱 Always learning
 
 
 <!---
