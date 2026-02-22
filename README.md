@@ -1,1 +1,1 @@
-![Snake animation](https://raw.githubusercontent.com/usman-naveed/usman-naveed/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/usman-naveed/usman-naveed/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
